@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color:#323f4b;
+    background-size: cover;
+    
+}
+h3 {
+    color:#cced00 ;
+    font-size: 30px;
+   
+    padding-bottom: 20px;
+}
+.custom-image {
+    width: 100%;
+}
+h1 {
+    color:white;
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+p {
+    color:#9aa5b1;
+    padding-top:20px;
+    font-weight: 500;
+    
+}
+.skill-bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+    height: 100vh;
+}
+.skill-card {
+    height: 170px;
+    width: 170px;
+    background-color:#323f4b;
+   
+    border-radius: 10px;
+    
+    text-align: center;
+    padding-top: 20px;
+}
+.skill-image {
+    height: 90px;
+    width: 90px;
+   
+}
+.skill-heading {
+    color: yellow;
+    font-size: 30px;
+}
+.span-element {
+    font-size: 30px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
